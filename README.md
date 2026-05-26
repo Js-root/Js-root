@@ -1,16 +1,20 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F713&width=435&lines=Welcome!)](https://git.io/typing-svg)
 
-<!--
-**Js-root/Js-root** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey — I'm Js
 
-Here are some ideas to get you started:
+building cool things on the internet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## currently
+- learning web development
+- building projects
+- exploring open source
+
+## tech
+- javascript
+- react
+- next.js
+
+## links
+- portfolio
+- twitter
+- linkedin
