@@ -53,10 +53,11 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Js-root/Js-root/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/Js-root/Js-root/stats-output/stats.svg" height="150" alt="GitHub Stats" />
+
+</div>
 ###
 
 <div data-importer="image" align="center">
