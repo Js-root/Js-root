@@ -1,34 +1,68 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F713&width=435&lines=Welcome!)](https://git.io/typing-svg)
+<div data-importer="image" align="center">
+  <img data-importer="image" height="226" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzEzN2N1MmkxazRhaDRjZWR3cDlpaHV1aXc0Zzlyd2g1dXN0MjlweCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3osxY9kuM2NGUfvThe/giphy.gif"  />
+</div>
 
-<h1> Hey!</h1>
+###
 
-<p> My name is Js</p>
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:maurodesouzaw?theme=3d-num&padding=6&offset=2&scale=2&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
-## About me
+###
 
-- ✨ Creating Cool Stuff
-- 📚 I'm currently learning Everything lol <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />
-- 🎯 Goals: idk do something 🚀
-- 🎲 And ... I have no idea what to write here right now
-  
-## I code with
+<h1 data-importer="text" align="center">Sup?</h1>
 
-<a href="https://www.typescriptlang.org" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
-</a>
+###
 
-<a href="https://pt-br.reactjs.org" target="_blank">
- <img align="left" title="React and React Native" alt="React and React Native" width="40px" src="./assets/react-logo.svg" />
-</a>
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="59" alt="html5 logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=css" height="59" alt="css logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=js" height="59" alt="javascript logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=react" height="59" alt="react logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=ts" height="59" alt="typescript logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="59" alt="tailwindcss logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=figma" height="59" alt="figma logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="59" alt="nextjs logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="59" alt="nodejs logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=py" height="59" alt="python logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=cs" height="59" alt="csharp logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=java" height="59" alt="java logo"  />
+</div>
 
-<a href="https://tailwindcss.com" target="_blank">
- <img align="left" title="Tailwind Css" alt="Tailwind Css" width="40px" src="./assets/tailwind-logo.svg" />
-</a>
+###
 
-<a href="https://nextjs.org" target="_blank">
-  <img align="left" title="Next Js" alt="Next Js" width="40px" src="./assets/next-logo.svg" />
-</a>
+<div data-importer="socials" align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-<a href="https://nestjs.com" target="_blank">
-  <img align="left" title="Nest Js" alt="Nest Js" width="40px" src="./assets/nest-logo.svg" />
-</a>
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouzaw/maurodesouzaw/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzaw/maurodesouzaw/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouzaw/maurodesouzaw/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzaw/maurodesouzaw/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
