@@ -51,18 +51,19 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
+
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Js-root/Js-root/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MW1vcHNkbW1jN2twZ2d5NHJub3ZuemZsN3ZwN3p0NHc1YXQ0dHU1cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CiZ9e5IUPqeVFzc8Mp/giphy.gif"  />
 </div>
 
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Js-root/Js-root/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Js-root/Js-root/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Js-root/Js-root/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzaw/maurodesouzaw/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouzaw/maurodesouzaw/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Js-root/maurodesouzaw/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
 ###
